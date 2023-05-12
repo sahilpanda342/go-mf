@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+p{
+    margin: 0%;
+}
+.pic{
+   width: 100%;
+   border: 5px solid white;
+}
+.poster{
+    color: white;
+    margin-top: 100px;
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;;
+}
+h1{
+    text-transform: uppercase;
+    font-size: 3rem;
+}
+p{
+    font-size: larger;
+}
